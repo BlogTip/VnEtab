@@ -30,7 +30,7 @@
 			numposts = 5;
 			sumPosts = 168;
 		</script>
-		<script type="text/javascript" src="https://rawgit.com/BlogTip/VnEtab/master/rc-post-VnEtab.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/BlogTip/VnEtab/rc-post-VnEtab.js"></script>
 	</div>
 	<div class="fl">
 		<div class="fl"><img src="img/box-bottomleft1.gif" alt=""></div>
